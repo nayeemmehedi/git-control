@@ -13,3 +13,7 @@ git checkout main
 git branch
 
 ## check which branch curent now
+
+git pull origin main
+
+##  pull it
